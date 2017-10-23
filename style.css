@@ -1,1 +1,21 @@
-mkdir images
+h1 {
+	 font-family: 'Press Start 2P', cursive; 
+	 font-size: 30px; 
+	 color: #ee9ecb; margin-top: 100px;
+	 padding-top: 150px; text-align: center;
+
+
+} 
+
+header {
+	background: url(images/minecraft-nicole.jpg);
+	height: 339px;
+	padding-left: 50px
+	padding-top:150px;
+
+
+}
+p  {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #c89ae2
+}
